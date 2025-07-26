@@ -1,4 +1,4 @@
-![logo](https://github.com/Navinkumarbth/Navinkumarbth/blob/main/Blue%20and%20White%20Illustrated%20Welcome%20Banner.png)
+![logo](https://github.com/Navinkumarbth/Navinkumarbth/blob/main/Blue%20Brown%20Corporate%20Online%20Business%20Webinar%20Banner.png)
 <h1 align="center">Hi 👋, I'm Navin Kumar</h1>
 <h3 align="center">I am full stack developer from India</h3>
 
